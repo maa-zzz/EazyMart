@@ -1,0 +1,26 @@
+.Grids {
+  margin-top: 4%;
+  margin-bottom: 4%;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding-left: 2%;
+  padding-right: 2%;
+  border-radius: 24px;
+}
+.h-100 {
+  border-color: #00adb5;
+  border-width: 10px;
+  border-style: outset;
+  border-radius: 12px;
+  background: #eeeeee;
+  width: 100%;
+  height: auto;
+  box-shadow: 10px 5px 5px #3824248c;
+  position: relative;
+}
+
+.bttn :hover {
+  background-color: #00adb5;
+}

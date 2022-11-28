@@ -1,0 +1,22 @@
+.navbar {
+  margin-top: 0px;
+  background-color: #222831;
+  position: relative;
+  height: 4rem;
+}
+
+.btn-primary {
+  background-color: #222831;
+  border-radius: 8px;
+  transition-duration: 0.4s;
+  box-shadow: background-color;
+}
+
+.nav-item {
+  margin: auto;
+  text-align: center;
+  font-size: large;
+}
+.nav-link {
+  color: #eeeeee;
+}

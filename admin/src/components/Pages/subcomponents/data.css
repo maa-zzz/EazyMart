@@ -1,0 +1,40 @@
+.info {
+  padding-left: auto;
+  padding-top: auto;
+  padding-right: 1rem;
+  padding-bottom: auto;
+  background-color: #eeeeee;
+}
+.head {
+  text-align: center;
+  border-radius: 10px;
+  padding-left: auto;
+  padding-top: auto;
+  padding-right: 1rem;
+  padding-bottom: auto;
+  background-color: #393e46;
+  color: #eeeeee;
+  border-width: 0.1px;
+  border-color: #393e46;
+  margin-bottom: 2rem;
+  justify-content: center;
+}
+.vals {
+  padding-left: 1rem;
+  padding-top: auto;
+  padding-right: 1rem;
+  padding-bottom: auto;
+}
+
+.id {
+  width: 50px;
+}
+.gender {
+  width: 80px;
+}
+.name {
+  width: 200px;
+}
+.actions {
+  width: 100px;
+}
